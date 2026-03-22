@@ -65,6 +65,3 @@ Le code est divisé en 4 sections principales :
 3. **Logique Serveur (Server)** : Fonctions de filtrage réactif (`reactive`) et rendu des composants (`renderValueBox`, `renderPlot`, `renderDT`).
 4. **Lancement de l'application** : Appel de la fonction `shinyApp()`.
 
-## 📄 Licence
-
-Ce projet est libre de droits. Vous pouvez
